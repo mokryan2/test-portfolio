@@ -49,12 +49,14 @@ body{
 }
 
 .contact{
+    text-decoration: underline;
     border: 5px solid orange;
     width: 90%;
     margin: 5%;
     text-align: center;
     padding: 1%;
-    background-color: white;
+    background-image:url(../images/triangular.png);
+    color: white;
 }
 
 .bio-image{
@@ -68,4 +70,31 @@ body{
 .text-box{
     padding: 5px;
     line-height: 2;
+}
+
+.app-divider{
+    color: wheat;
+    border: 5px solid cadetblue;
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom:5%;
+    background-image:url(../images/low_contrast_linen.png)
+}
+.app-title{
+    margin-top:1%;
+    text-decoration: underline;
+}
+
+.app-description{
+    font-size: 20px;
+    margin-left:5%;
+    padding: 10px;
+}
+
+.app{
+    float: left;
+    height: 220px;
+    width: 330px;
+    margin: 10px 10px 10px 30px;
+    border: 2px solid white;
 }
