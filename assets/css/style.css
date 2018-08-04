@@ -1,3 +1,9 @@
+header {
+    width: 100%;
+    background-color: rgb(23, 82, 221);
+    height: 88px; 
+}
+
 navbar.navbar-expand-lg.navbar-light.bg-light {
     width: 960px;
     max-width: 960px;
@@ -22,6 +28,9 @@ navbar.navbar-expand-lg.navbar-light.bg-light {
     color: white;
 }
 
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
 .navbar-nav {
     position: relative;
     right: -70%;
