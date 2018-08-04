@@ -86,7 +86,7 @@ body{
 }
 
 .app-description{
-    font-size: 20px;
+    font-size: 18px;
     margin-left:5%;
     padding: 10px;
 }
@@ -97,4 +97,17 @@ body{
     width: 330px;
     margin: 10px 10px 10px 30px;
     border: 2px solid white;
+}
+
+.contact-container{
+    border: 5px solid cadetblue;
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+    background-color: white;
+}
+
+form{
+    width: 90%;
+    margin: 2% 5% 2% 5%;
 }
