@@ -72,6 +72,7 @@ body{
 }
 
 .text-box{
+    font-size: 26px;
     padding: 5px;
     line-height: 2;
     font-family: 'Kanit', sans-serif;
