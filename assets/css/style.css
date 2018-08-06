@@ -78,6 +78,27 @@ body{
     font-family: 'Kanit', sans-serif;
 }
 
+.links{
+    text-align: center;
+    margin: 10px;
+    flex-flow: row;
+}
+
+img{
+    height: 250px;
+    width: 190px;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom:3%;
+    text-align: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.fa-7x{
+    margin:20px;
+}
+
 .app-divider{
     color: wheat;
     border: 5px solid cadetblue;
