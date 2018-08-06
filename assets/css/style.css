@@ -78,10 +78,17 @@ body{
     font-family: 'Kanit', sans-serif;
 }
 
-.links{
+.sub-header{
+    text-decoration: underline;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
     text-align: center;
-    margin: 10px;
-    flex-flow: row;
+    padding: 1%;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 38px;
+    font-weight: bolder;
+    letter-spacing: 10px;
 }
 
 img{
@@ -96,7 +103,8 @@ img{
     flex-wrap: nowrap;
 }
 .fa-7x{
-    margin:20px;
+    margin-left:28%;
+    margin-bottom:1%;
 }
 
 .app-divider{
